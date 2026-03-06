@@ -4,7 +4,7 @@ Below are some examples of a complete FHIR IPS Document, and also snippets of th
 
 ## Overall IPS Example
 
-[Sample International Patient Summary FHIR Bundle](Examples/SCRSummary.json)
+[Sample International Patient Summary FHIR Bundle]([Bundle/uk-ps.json)
 
 Note: This example can be pasted into [this web site](https://www.ipsviewer.com/) to show the content and give an idea about how it could be rendered.
 

@@ -1,10 +1,9 @@
 {
   "resourceType": "Bundle",
-  "id": "df6d8a1e-87d8-4a39-9eb9-f6cd57e9edfc",
+  "id": "uk-ps-basic-summary",
   "meta": {
     "profile": [
-      "http://hl7.org.uk/fhir/ps/StructureDefinition/uk-ps-bundle",
-      "http://hl7.org/fhir/uv/ips/StructureDefinition/Bundle-uv-ips"
+      "http://hl7.org.uk/fhir/ps/StructureDefinition/uk-ps-bundle"
     ]
   },
   "identifier": {
