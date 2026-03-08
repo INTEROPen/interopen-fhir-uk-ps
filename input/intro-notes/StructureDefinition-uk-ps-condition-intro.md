@@ -33,5 +33,5 @@ Items recorded as "problems" in local clinical systems (e.g. items on the proble
 
 **Example:**
 
-* [Example FHIR Condition](Examples/uk-ps-Condition.json)
+* [Example FHIR Condition](examples/uk-ps-Condition.json)
 * [Example HTML Narrative](https://html-preview.github.io/?url=https://github.com/ahatherly-gn/NHS-SCR-IPS/blob/main/Examples/Narrative-Problems.html)

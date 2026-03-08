@@ -9,4 +9,4 @@
   - A consumer **SHALL** support both elements  
 - The MedicationRequest resource **SHALL NOT** be used to represent that a patient is not currently taking any medications; systems **SHOULD** use the MedicationStatement resource following the [profile specific implementation guidance](StructureDefinition-uk-ps-medicationstatement.html#profile-specific-implementation-guidance) in [UK PS MedicationStatement](StructureDefinition-uk-ps-medicationstatement.html).
 
-**Examples for this Profile**: [Examples/uk-ps-bundle](Bundle-ukps-bundle.html)
+**Examples for this Profile**: [Bundle/uk-ps-basic-summary](Bundle-ukps-basic-summary.html)

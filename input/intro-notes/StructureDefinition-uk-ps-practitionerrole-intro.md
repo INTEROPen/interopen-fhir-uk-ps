@@ -3,4 +3,4 @@
 ### Profile Specific Implementation Guidance
 - See the [guidance on implementing the PractitionerRole resource](https://build.fhir.org/ig/hl7au/au-fhir-core/StructureDefinition-au-core-practitionerrole.html#profile-specific-implementation-guidance) in AU Core.
 
-**Examples for this Profile**: [Bundle/uk-ps-bundle](Bundle-ukps-bundle.html)
+**Examples for this Profile**: [Bundle/uk-ps-basic-summmary](Bundle-ukps-basic-summary.html)

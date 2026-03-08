@@ -18,7 +18,7 @@ A UK PS is intended to:<a name="aupintendedto">
 * be able to be used within an UK state or territory, across state and territory borders, internationally
 
 <div> 
-   <img src="UK-context.png" alt="Context of UK PS across a Consumer's Healthcare Journey" style="width:70%"/>
+   <img src="AU-context.png" alt="Context of UK PS across a Consumer's Healthcare Journey" style="width:70%"/>
   </div>
 *Figure 1: Context of UK PS across a Consumer's Healthcare Journey in UK*
 <br/>
@@ -54,7 +54,7 @@ The UK PS is based on [IPS](https://hl7.org/fhir/uv/ips/STU2//) and [UK Core](ht
 * A conformant UK PS actor IS NOT a conformant UK Core actor - UK Core, like IPA, defines actors for FHIR resource access via a RESTful API. UK PS (and IPS) do not define 'access' they define production and consumption of patient summary documents.
 
 <div> 
-   <img src="UKPSPassport.png" alt="The UK PS 'Passport'" style="width:25%"/>
+   <img src="AUPSPassport.png" alt="The UK PS 'Passport'" style="width:25%"/>
   </div>
 *Figure 3: The UK PS 'Passport'*
 <br/>

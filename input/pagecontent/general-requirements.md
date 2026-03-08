@@ -367,13 +367,7 @@ Profile |Must Support Data Type
 ---|---
 [UK PS AllergyIntolerance](StructureDefinition-uk-ps-allergyintolerance.html)|AllergyIntolerance.onsetDateTime
 [UK PS Condition](StructureDefinition-uk-ps-condition.html)|Condition.onsetDateTime
-[DeviceUseStatement (IPS)](https://hl7.org/fhir/uv/ips/STU2/StructureDefinition-DeviceUseStatement-uv-ips.html)|DeviceUseStatement.timingDateTime
-[DiagnosticReport (IPS)](https://hl7.org/fhir/uv/ips/STU2/StructureDefinition-DiagnosticReport-uv-ips.html)|DiagnosticReport.effectiveDateTime
-[UK PS Immunization](StructureDefinition-uk-ps-immunization.html)|Immunization.occurrenceDateTime
 [UK PS MedicationStatement](StructureDefinition-uk-ps-medicationstatement.html)|MedicationStatement.effectiveDateTime
-[Observation Results - Radiology (IPS)](https://hl7.org/fhir/uv/ips/STU2/StructureDefinition-Observation-results-radiology-uv-ips.html)|Observation.effectiveDateTime
-[UK PS Pathology Result Observation](StructureDefinition-uk-ps-diagnosticresult-path.html)|Observation.effectiveDateTime
-[UK PS Procedure](StructureDefinition-uk-ps-procedure.html)|Procedure.performedDateTime
 {:.grid}
 
 ##### Must Support - Identifiers 
@@ -414,7 +408,6 @@ Profile |Must Support Choice Elements
 [UK PS Encounter](StructureDefinition-uk-ps-encounter.html)|Encounter.reasonCode, Encounter.reasonReference
 [UK PS MedicationRequest](StructureDefinition-uk-ps-medicationrequest.html)|MedicationRequest.reasonCode, MedicationRequest.reasonReference
 [UK PS MedicationStatement](StructureDefinition-uk-ps-medicationstatement.html)|MedicationStatement.reasonCode, MedicationStatement.reasonReference
-[UK PS Procedure](StructureDefinition-uk-ps-procedure.html)|Procedure.reasonCode, Procedure.reasonReference
 {:.grid}
 
 
@@ -431,7 +424,6 @@ The table below lists the applicable profiles and elements in UK PS that support
 
 Profile |Must Support Sub-Element|Terminology Choices
 ---|---
-[UK PS Immunization](StructureDefinition-uk-ps-immunization.html)|Immunization.vaccineCode.coding|[Australian Medicines Terminology Vaccine](https://healthterminologies.gov.au/fhir/ValueSet/amt-vaccine-1), [Australian Immunisation Register Vaccine](https://healthterminologies.gov.au/fhir/ValueSet/australian-immunisation-register-vaccine-1)
 [UK PS Medication](StructureDefinition-uk-ps-medication.html)|Medication.code.coding|[Australian Medication](https://healthterminologies.gov.au/fhir/ValueSet/australian-medication-1), [PBS Item Codes](https://build.fhir.org/ig/hl7au/au-fhir-base/ValueSet-pbs-item.html)
 [UK PS MedicationRequest](StructureDefinition-uk-ps-medicationrequest.html)|MedicationRequest.code.coding|[Australian Medication](https://healthterminologies.gov.au/fhir/ValueSet/australian-medication-1), [PBS Item Codes](https://build.fhir.org/ig/hl7au/au-fhir-base/ValueSet-pbs-item.html)
 [UK PS MedicationStatement](StructureDefinition-uk-ps-medicationstatement.html)|MedicationStatement.code.coding|[Australian Medication](https://healthterminologies.gov.au/fhir/ValueSet/australian-medication-1), [PBS Item Codes](https://build.fhir.org/ig/hl7au/au-fhir-base/ValueSet-pbs-item.html)

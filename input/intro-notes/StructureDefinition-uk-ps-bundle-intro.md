@@ -2,4 +2,4 @@
 
 ### Profile specific implementation guidance
 
-**Examples for this Profile**: [Examples/uk-ps-bundle](Bundle-ukps-bundle.html)
+**Examples for this Profile**: [Bundle/uk-ps-basic-summary](Bundle-ukps-basic-summary.html)

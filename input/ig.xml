@@ -65,7 +65,7 @@
 			<reference>
 				<reference value="StructureDefinition/uk-ps-allergyintolerance"/>
 			</reference>
-			<exampleBoolean value="false"/>
+			<exampleBoolean value="true"/>
 		</resource>
 		<resource>
 			<reference>

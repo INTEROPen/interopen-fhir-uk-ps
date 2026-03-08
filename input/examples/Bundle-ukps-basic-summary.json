@@ -1,11 +1,7 @@
 {
   "resourceType": "Bundle",
-  "id": "uk-ps-basic-summary",
-  "meta": {
-    "profile": [
-      "http://hl7.org.uk/fhir/ps/StructureDefinition/uk-ps-bundle"
-    ]
-  },
+  "id": "ukps-basic-summary",
+
   "identifier": {
     "system": "http://test-nhs-scr-ips.com",
     "value": "604d90a6-4683-4d0f-ac38-bafda31b56d8"

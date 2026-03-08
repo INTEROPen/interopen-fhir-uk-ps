@@ -6,5 +6,5 @@
   - Although both are marked as *Must Support*, producers are not required to support both a code and a reference, but they **SHALL** support *at least one* of these elements
   - A consumer **SHALL** support both elements
 
-**Examples for this Profile**: [Examples/uk-ps-bundle](Bundle-ukps-bundle.html)
+**Examples for this Profile**: [Bundle/uk-ps-basic-summary](Bundle-ukps-basic-summary.html)
 

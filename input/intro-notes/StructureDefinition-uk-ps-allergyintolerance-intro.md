@@ -29,7 +29,7 @@
 
 **Example:**
 
-* [Example FHIR AllergyIntolerance](Examples/uk-ps-AllergyIntolerance.json)
+* [AllergyIntolerance/uk-ps-AllergyIntolerance](AllergyIntolerance-uk-ps-AllergyIntolerance.html)
 * [Example HTML Narrative](https://html-preview.github.io/?url=https://github.com/ahatherly-gn/NHS-SCR-IPS/blob/main/Examples/Narrative-Allergies.html)
 
 
@@ -40,5 +40,5 @@ The additional obligation on `AllergyIntolerance.onsetDateTime` for [UK PS Produ
 
 This additional obligation is present in the underlying structure but due to a tooling limitation is not currently rendered in the Formal Views of Profile Content. See [Zulip discussion](https://chat.fhir.org/#narrow/channel/179252-IG-creation/topic/Obligation.20Extension.20on.20ElementDefinition.2Etype.20not.20rendering) for more information.
 
-**Examples for this Profile**: [Bundle/uk-ps-bundle](Bundle-ukps-bundle.html)
+**Examples for this Profile**: [Bundle/uk-ps-basic-summmary](Bundle-ukps-basic-summary.html)
 

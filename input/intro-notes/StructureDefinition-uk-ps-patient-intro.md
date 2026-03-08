@@ -7,5 +7,5 @@
   - **SHALL** populate with at least one of the supported identifier types if known
   - **SHOULD** populate an IHI in preference to Medicare or DVA numbers where the IHI is known and **MAY** also provide a Medicare, DVA number, other identifier type or any combination of them
 - 
-**Examples for this Profile**: [Bundle/uk-ps-bundle](Bundle-ukps-bundle.html)
+**Examples for this Profile**: [Bundle/uk-ps-basic-summmary](Bundle-ukps-basic-summary.html)
 
