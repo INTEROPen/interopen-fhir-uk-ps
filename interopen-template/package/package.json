@@ -1,0 +1,8 @@
+{
+  "name": "interopen-template",
+  "version": "0.1.0",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "Interopen FHIR Implementation Guide Template",
+  "author": "Interopen"
+}
