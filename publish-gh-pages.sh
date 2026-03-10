@@ -29,7 +29,7 @@ if [ -d "docs" ]; then
 fi
 
 # Copy output to docs
-mv -r output docs
+mv  output docs
 
 # Stage and commit changes
 git add docs
